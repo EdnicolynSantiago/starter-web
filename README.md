@@ -1,5 +1,5 @@
 #Starter Web Project
-This is a simple website project for showing how to use Git and Github together. Adding line, more changes.
+This is a simple website project for showing how to use Git and Github together. Adding line, more changes. emergency line
 ## INTRODUCTION
 This is example is to show different parts of the Git repository and various commands using a web project.
 ## PUROPOSE
